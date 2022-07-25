@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaWasnik91
-- 👀 I’m interested in ... Machine Learning, Deep Learning and Software Developement.  
+- 👀 I’m interested in software developement building apps based on Deep Learning. 
 - 📫 How to reach me ... www.linkedin.com/in/aditya-wasnik
 
 <!---
